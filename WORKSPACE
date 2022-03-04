@@ -33,8 +33,8 @@ gazelle_dependencies()
 go_repository(
     name = "com_github_golang_mock",
     importpath = "github.com/golang/mock",
-    sum = "h1:l75CXGRSwbaYNpl/Z2X1XIIAMSCquvXgpVZDhwEIJsc=",
-    version = "v1.4.4",
+    commit = "aba2ff9a6844d5e3289e8472d3217d5b3090f083",
+    version = "v1.6.0",
 )
 
 go_repository(
